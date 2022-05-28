@@ -52,7 +52,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -510,10 +510,10 @@
               "color": "#fafafa"
             },
             ".mbr-section-title": {
-              "color": "#ffe161"
+              "color": "#e6c63b"
             },
             ".name": {
-              "color": "#ffe161",
+              "color": "#e6c63b",
               "text-align": "center"
             }
           },
